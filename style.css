@@ -1,1 +1,28 @@
-
+p{
+    color:pink;
+    height; 40px;
+}
+ul{
+    color:blue;
+  font-size: 14pt;
+}
+ol{
+    color:purple;
+    font-family: Ariel;
+}
+h1{
+    color:yellow;
+    background-color:light blue;
+}
+header{
+    color:green;
+    background-image:yellow;
+}
+body{
+    color:orange;
+    width: 50px;
+}
+footer{
+    color:indigo;
+    font-weight: bold;
+}
